@@ -1,0 +1,141 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+	font-family: 'Droid Sans', sans-serif;
+
+}
+
+html {
+    width: 100%;
+    height: 100%;
+	background: #eee;
+
+	
+}
+
+@media(min-width:767px) {
+    .navbar {
+    }
+}
+
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+.intro-section {
+    height: 100%;
+	padding-top: 3em;
+	padding-bottom: 3em;
+    text-align: center;
+	color: #101010;
+	background-image: url("../img/1background.jpg");
+
+}
+img.screen-main{
+	height: auto;
+	width:100%
+}
+
+.col-lg-8{
+	padding-right: 2.5em;
+}
+.vertLine{
+	padding-right: 2em;
+	border-right: 1px dashed #333;
+	}
+.col-md-4{
+	padding-top: 1.5em;
+}
+.col-md-3{
+	font-size: 18px;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 2em;
+	padding-bottom: 1em;
+    text-align: center;
+	background: #eee;
+}
+.satmass{
+    font-size:26px;
+}
+.project-container:first-of-type{
+	display: block;
+}
+
+.project-container:last-of-type{
+	display: none;
+}
+.product-section {
+    height: 100%;
+	padding-top: 2em;
+	padding-bottom: 1em;
+    text-align: center;
+	background: #fff;
+}
+.scroll-text > div{
+display: none;
+}
+.imgWrap{
+	position: relative;
+	width: 100%;
+	height: auto;
+}
+.imgDescription{
+ 	font-size: 15px;
+	font-weight: 200;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 2em;
+	padding-bottom: 2em;
+    text-align: center;
+	background: #eee;
+}
+.projects-section {
+    height: 100%;
+    padding-top: 2em;
+    text-align: center;
+	background: #fff;
+}
+.projects-section .container{
+	height: 100%; 
+}
+.thumbnail {
+    position:relative;
+    overflow:hidden;
+	height: 100%;
+	width: 60%;
+	margin: auto;
+	
+}
+.beartracks {
+	width:100%;
+	height: 100%;
+} 
+.caption {
+    position:absolute;
+    background:rgba(0, 0, 0, 0.75);
+    width: 100%;
+    height:100%;
+    padding:2%;
+    display: none;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
+	font-size: 16px;
+}
+.contact-section {
+    padding-top: 2em;
+    text-align: center;
+	background: #eee;
+
+}
