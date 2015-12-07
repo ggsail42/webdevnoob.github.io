@@ -62,8 +62,8 @@
     <div class="row">
      <div class="col-lg-12">
    	 	 <h1>Thorski Design, LLC</h1>
-         <br><p><strong>Thorski Design, LLC</strong> is a consulting company providing professional engineering and technical expertise to government and commercial customers in the aerospace industry.</p>
-	     <br><p>We also provide an off-the-shelf mass properties software tool. SatMass&trade; sets a new standard for advanced mass properties management and analysis.</p>
+       <span style="color: #fff;">  <br><p><strong>Thorski Design, LLC</strong> is a consulting company providing professional engineering and technical expertise to government and commercial customers in the aerospace industry.</p>
+	     <br><p>We also provide an off-the-shelf mass properties software tool. SatMass&trade; sets a new standard for advanced mass properties management and analysis.</span></p>
          <br><p><a class="btn btn-default page-scroll" href="#about" role="button">Learn more about SatMass&trade;&raquo;</a></p>
      </div>
     </div>
@@ -76,9 +76,9 @@
     <div class="col-lg-12">
      <h1>About</h1>
 		<div class="col-lg-8"><div class="vertLine">
-	  <br><p>Thorski Design, LLC is an aerospace engineering consulting company located in Dulles, Virginia. Since incorporating in 2005 we have been providing a wide variety of engineering and technical services to commercial and government customers in the area.</p>
+	<span style="text-align: left;">  <br><p>Thorski Design, LLC is an aerospace engineering consulting company located in Dulles, Virginia. Since incorporating in 2005 we have been providing a wide variety of engineering and technical services to commercial and government customers in the area.</p>
 	  <br><p>Eric Thorstenson, our president and principal engineer, has over twenty years experience in mechanical engineering and other disciplines supporting a variety of aerospace and military development contracts.<br>For over ten years he acted as mechanical system lead on multiple spacecraft missions, including Acrimsat, QuikTOMS, and FORMOSAT-3 (ROCSAT-3). Recently, he has been an integral part of the Glory mechanical design and test team.</p>
-	  <br><p>His areas of expertise include spacecraft mechanical design, mechanisms and deployables, integration and test, mass properties, and structural analysis. He also has an extensive background in custom and commercial software development, for both general purpose computing platforms and embedded control and instrumentation systems.</p>
+	  <br><p>His areas of expertise include spacecraft mechanical design, mechanisms and deployables, integration and test, mass properties, and structural analysis. He also has an extensive background in custom and commercial software development, for both general purpose computing platforms and embedded control and instrumentation systems.</p></span>
 		</div>
 	  <br><p><a class="btn btn-default page-scroll" href="#" role="button">Download Eric's Resume Here&raquo;</a></p>
     </div>
@@ -105,13 +105,13 @@
    </div>
    <div class="row">
 	<div class="col-lg-8">
-		<p><img src="../public/img/screen_main.png" class="screen-main"></p>
+		<p><img src="../img/screen_main.png" class="screen-main"></p>
 	</div>
 	<div class="col-md-4">
-	 <div class="scroll-text">
+	 <div class="scroll-text"><span style="text-align: left;">
 	    	<p data-sr='vFactor 0.6'>Created by a mechanical engineer with a background in spacecraft development, SatMass&trade; is a tool for advanced mass properties management and analysis.</p>
 			<p data-sr='vFactor 0.6'>SatMassTM enables a systems engineer or mass properties analyst to compile component-level mass information into a complete picture with accurate and rapid results. It's modeling approach and analytical tools make it applicable from the earliest trade studies and risk projections to detailed design and analysis.</p>
-			<p data-sr='vFactor 0.6'>Developed with spacecraft, light aircraft, UAV's, and launch vehicles in mind, SatMassTM can handle all your technical and business needs.</p>
+			<p data-sr='vFactor 0.6'>Developed with spacecraft, light aircraft, UAV's, and launch vehicles in mind, SatMassTM can handle all your technical and business needs.</p></span>
 	 </div>
 	</div>
    <div class="row">	
@@ -133,20 +133,20 @@
     	<h1>Services</h1>
 	</div>
 	<div class="col-md-3"><strong>Spacecraft Integration and Testing</strong>
-		<img src="../public/img/massprops.jpg" class="imgWrap">
+		<img src="../img/massprops.jpg" class="imgWrap">
 	</div>
 	<div class="col-md-3"><strong>Instrumentation and Data Acquisition</strong>
-		<img src="../public/img/dynamics.jpg" class="imgWrap">
+		<img src="../img/dynamics.jpg" class="imgWrap">
 	</div>
 	<div class="col-md-3"><strong>Mechanical System Design and Analysis</strong>
-		<img src="../public/img/design1.png" class="imgWrap">
+		<img src="../img/design1.png" class="imgWrap">
 	</div>
 	<div class="col-md-3"><strong>Software Development</strong><br><br>
-		<img src="../public/img/screen1.png" class="imgWrap">
+		<img src="../img/screen1.png" class="imgWrap">
 	</div>
    </div>
    <p></p>
-   <div class="row">
+   <div class="row"><span style="text-align: left;">
     <div class="col-md-3">
 	 <div class="imgDescription">Integration and testing of spacecraft is one of the most critical phases of any mission.  Thorski Design has extensive experience in spacecraft integration and testing.<br><br>
 	 </div>
@@ -163,7 +163,7 @@
 	 <div class="imgDescription">In order to meet difficult mission challenges, we create tests and software that provide hard-to-obtain data in a user-friendly fashion.<br><br>
 	 </div>
 	</div>
-   </div>
+   </div></span>
    <p></p>
    <div class="row">
 	 <div class="col-md-3"><a class="btn btn-default page-scroll" href="#" role="button">Learn more&raquo;</a></div>
@@ -186,10 +186,10 @@
     <div class="row">
 		<strong>Caravellair Roadable Aircraft</strong>
     </div>	
-    	<p><img src="../public/img/graphic.png" class="img-responsive center-block"></p>
+    	<p><img src="../img/graphic.png" class="img-responsive center-block"></p>
     <div class="row">
-	 <div class="col-lg-12">
-	 	<p>Thorski Design is an industry partner in the development of the Caravellair Roadable Aircraft, in development at Caravella Aerospace. In addition to providing engineering expertise in areas such as structural analysis, mechanism design, and vehicle dynamics, Thorski was a major contributor in the development of a high-fidelity 1/6th scale model of the vehicle. The model faithfully reproduced all of the key chassis and aerodynamic features of the prototype, including the front and rear suspension, foldable wing, collapsable tail boom, and flight control surfaces.</p>
+	 <div class="col-lg-12"><span style="text-align: left;">
+	 	<p>Thorski Design is an industry partner in the development of the Caravellair Roadable Aircraft, in development at Caravella Aerospace. In addition to providing engineering expertise in areas such as structural analysis, mechanism design, and vehicle dynamics, Thorski was a major contributor in the development of a high-fidelity 1/6th scale model of the vehicle. The model faithfully reproduced all of the key chassis and aerodynamic features of the prototype, including the front and rear suspension, foldable wing, collapsable tail boom, and flight control surfaces.</p></span>
 	 </div>
     </div>
    </div>
@@ -199,19 +199,19 @@
 	</div>
 	 <div class="row">
 	  <div class="thumbnail">
-	   <div class="caption">
+	   <div class="caption"><span style="text-align: left;">
 	   		<br>Graphical representation of layouts and accessories gives operators a commanding view of the layout and its configuration
 			<br><br>Powerful scripting system allows instant control any number of physical devices - activate multiple track sections, switches, or accessories with one touch
 			<br><br>Pan, zoom, or rotate the layout to focus on specific areas - zoom in for yard operations, or view the whole layout for mainline control
 			<br><br>Integrated throttle control and current feedback for locomotives provides load monitoring and fault control
 			<br><br>Fully networked design allows connection via Ethernet, WiFi, and even remote control via the internet
-	   </div>
-	   		<p><img src="../public/img/beartracks.png" class="beartracks"></p>
+	   </div></span>
+	   		<p><img src="../img/beartracks.png" class="beartracks"></p>
 	  </div> 
      </div>
 	<div class="row">
-	 <div class="col-lg-12">
-	 	<p>Code named BearTracks, Thorski is developing an automation and control system for model train layouts, consisting of both a powerful software application and an innovative hardware control unit. The BearTracks control software redefines "Command Central" with features such as:	</p>
+	 <div class="col-lg-12"><span style="text-align: left;">
+	 	<p>Code named BearTracks, Thorski is developing an automation and control system for model train layouts, consisting of both a powerful software application and an innovative hardware control unit. The BearTracks control software redefines "Command Central" with features such as:	</p></span>
 	 </div>
     </div>  
    </div>
@@ -227,7 +227,7 @@
    </div>
 	<div class="row">
 	<div class="col-lg-12">
-	<img src="../public/img/sa_deploy.jpg">
+	<img src="../img/sa_deploy.jpg">
 	</div>
 	</div>
 	<br><br>

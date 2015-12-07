@@ -35,6 +35,10 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
 	color: #101010;
 	background-image: url("../img/1background.jpg");
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 
 }
 img.screen-main{
@@ -55,8 +59,6 @@ img.screen-main{
 .col-md-3{
 	font-size: 18px;
 }
-
-
 
 .about-section {
     height: 100%;

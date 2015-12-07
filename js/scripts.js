@@ -27,4 +27,14 @@ function stopRot(){
 	clearInterval(timerId);
 	timerId = null;
 }
-
+function display(){
+	if ($(".project-container:visible").next().length != 0){
+		$(".project-container:visible").fadeOut(function(){
+			$(this).next().fadeIn(300);
+		});
+	}else{
+		$(".project-container:visible").fadeOut(function(){
+			$(".project-container:first").fadeIn(300);
+		});
+	}
+}
